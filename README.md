@@ -31,3 +31,5 @@ To implement and understand fundamental data structures and algorithms through p
 
 ---
 This repository is maintained as part of my academic DSA coursework.
+This repository is maintained using Git and GitHub for version control.
+
