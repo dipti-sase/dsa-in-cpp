@@ -16,8 +16,8 @@ This repository contains C++ programs completed as part of my college Data Struc
 | 6(b) | Stack Implementation Using Linked List | stacklinklist.cpp |
 | 7(a) | Queue Implementation Using Array | Queuearray.cpp |
 | 7(b) | Queue Implementation Using Linked List | Queuelinkedlist.cpp |
-| 8 | Evaluation of Postfix Expression | To be uploaded |
-| 9 | Graph Implementation Using Adjacency Matrix | To be uploaded |
+| 8 | Evaluation of Postfix Expression | postfix.cpp | |
+| 9 | Graph Implementation Using Adjacency Matrix | Graph_DFS | |
 
 ## Technologies Used
 
