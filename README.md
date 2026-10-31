@@ -19,6 +19,19 @@ This repository contains C++ programs completed as part of my college Data Struc
 | 8 | Evaluation of Postfix Expression | postfix.cpp | |
 | 9 | Graph Implementation Using Adjacency Matrix | Graph_DFS | |
 
+
+Course Projects
+1. Music Playlist Manager
+Description: A C++ application to manage music playlists.
+Data Structure Used: Doubly Linked List
+File Name: MusicPlaylistManager.cpp
+2. Smart Ambulance Route Finder
+Description: A C++ application that finds the shortest route for an ambulance to reach a hospital.
+Data Structure Used: Graph using Adjacency Matrix
+Algorithm Used: Dijkstra's Shortest Path Algorithm
+File Name: SmartAmbulanceRouterFinder.cpp
+
+
 ## Technologies Used
 
 - *Programming Language:* C++
@@ -27,9 +40,9 @@ This repository contains C++ programs completed as part of my college Data Struc
 
 ## Purpose
 
-To implement and understand fundamental data structures and algorithms through practical programming exercises.
+To implement and understand fundamental data structures and algorithms through practical programming exercises and real-world course projects.
 
 ---
-This repository is maintained as part of my academic DSA coursework.
-This repository is maintained using Git and GitHub for version control.
+This repository is maintained as part of my academic DSA coursework using git and GitHub for version control
+using Git and GitHub for version control.
 
