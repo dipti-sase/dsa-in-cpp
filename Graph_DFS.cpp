@@ -42,6 +42,10 @@ DFS traversal is 0 1 d :\Dipti > cd "d:\Dipti\" && g++ Graph_DFS.cpp -o Graph_DF
 
     Enter the number of vertices : 4
 
-    Enter the adjacency matrix of the graph : 0 1 1 1 0 0 0 1 0 0 0 1 0 0 0 0
+    Enter the adjacency matrix of the graph : 
+0 1 1 1
+0 0 0 1
+0 0 0 1
+0 0 0 0
 
     DFS traversal is 0 1 3 2 d :\Dipti >
